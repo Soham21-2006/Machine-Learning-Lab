@@ -1,0 +1,6 @@
+,MAE,MSE,R2_Score
+Linear Regression,0.5332,0.5559,0.5758
+Polynomial Regression,0.5162,0.6045,0.5387
+Decision Tree,0.4542,0.4943,0.6228
+Random Forest,0.3277,0.256,0.8046
+SVR,0.3973,0.3542,0.7297
